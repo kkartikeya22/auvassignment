@@ -1,5 +1,5 @@
-# Color Changer Web App
 # auvassignment
+# Color Changer Web App
 
 ![Color Changer Demo](demo.gif)
 
@@ -35,7 +35,3 @@ Feel free to customize the code to add more features or modify the styling accor
 
 ## Author
 Kartikeya Katiyar
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
